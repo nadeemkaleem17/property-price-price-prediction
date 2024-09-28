@@ -1,4 +1,4 @@
-This data science project guides through building a real estate price prediction website step by step. First, create a model using scikit-learn
+This project guides through building a real estate price prediction website step by step. First, create a model using scikit-learn
 and linear regression with a home prices dataset from Bangalore, available on Kaggle. 
 Next, develop a Python Flask server that uses the saved model to handle HTTP requests.
 Finally, build a website using HTML, CSS, and JavaScript, where users can input home details like square footage and bedrooms to get a price prediction from the Flask server.
